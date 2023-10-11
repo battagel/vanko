@@ -1,0 +1,9 @@
+version: 0.2
+phases:
+  build:
+    commands:
+      - # Build your application
+      - mv dist/* .  # Move the contents of dist to the root of build artifacts
+artifacts:
+  files: '**/*'  # Include all files in the root
+
