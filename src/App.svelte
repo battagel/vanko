@@ -47,6 +47,8 @@
   </p>
   <h1>Value from Lambda:</h1>
   <p>{lambdaValue}</p>
+
+  <p>Now built!!!</p>
 </main>
 
 <style>
